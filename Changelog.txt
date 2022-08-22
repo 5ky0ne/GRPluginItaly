@@ -1,0 +1,49 @@
+Version 0.7.1
+) Verificare LIME con AIP
+) Verificare LIBR con AIP
+
+Version 0.7
+
+Added:
++ LIBD
++ LIPO
++ LIPY
++ LIRQ
+
+Version 0.6
+
+Added:
++ LICG
++ LICJ
++ LIEE
++ LIEO
++ LIMP
++ LIRP
++ LIRQ
+
+Modified:
+* LIMC Removed Terminal 2
+
+Version 0.5
+
+Added:
++ LICC
++ LIEA
++ LIME
++ LIMF
++ LIMJ
++ LIPE
++ LIRN
+
+Modified:
+* Added ITY in every airport
+
+Version 0.4
+
+First beta release
+Added:
++ LIMC
++ LIML
++ LIPZ
++ LIRA
++ LIRF
