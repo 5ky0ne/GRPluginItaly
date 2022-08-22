@@ -1,14 +1,15 @@
-Version 0.7.1
-) Verificare LIME con AIP
-) Verificare LIBR con AIP
-
 Version 0.7
+22/08/2022
 
 Added:
 + LIBD
++ LIBR
 + LIPO
 + LIPY
 + LIRQ
+
+Warning:
+- With sector file AIRAC 2208/1 LIBR and LIME parkings do not match with those contained in the AIP.
 
 Version 0.6
 
