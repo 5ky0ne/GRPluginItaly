@@ -1,12 +1,36 @@
 Version 0.7
-22/08/2022
+First public beta
 
 Added:
++ LIAP
++ LIBC with restrictions
++ LIBG
 + LIBD
++ LIBF
++ LIBP
 + LIBR
++ LICA
++ LICB
++ LICD
++ LICR
++ LICT
++ LIDF
++ LIER
++ LIME LVP and restrictions
++ LIMJ LVP and restrictions
++ LIMZ
++ LINL
++ LIPH
++ LIPK
 + LIPO
++ LIPQ
++ LIPX
 + LIPY
++ LIRI
 + LIRQ
++ LIRS
++ LIRU
++ LIRZ
 
 Warning:
 - With sector file AIRAC 2208/1 LIBR and LIME parkings do not match with those contained in the AIP.
@@ -20,7 +44,6 @@ Added:
 + LIEO
 + LIMP
 + LIRP
-+ LIRQ
 
 Modified:
 * LIMC Removed Terminal 2
